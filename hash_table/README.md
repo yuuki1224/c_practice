@@ -1,0 +1,6 @@
+
+## Hash Table
+
+```
+initHashTable
+```
